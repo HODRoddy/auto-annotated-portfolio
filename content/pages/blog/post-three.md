@@ -4,7 +4,7 @@ title: "Useful links \U0001F9A1"
 colors: colors-b
 date: '2024-01-01'
 author: content/data/team/doris-soto.json
-excerpt: More context that may or may not be helpful
+excerpt: For useful people
 featuredImage:
   type: ImageBlock
   url: /images/featured-Image3.jpg
