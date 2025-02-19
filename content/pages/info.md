@@ -172,6 +172,7 @@ sections:
     colors: colors-f
     text: |
       <roddy@hodr.co.uk>
+    elementId: contact email who
   - type: DividerSection
     styles:
       self:
