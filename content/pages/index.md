@@ -13,11 +13,11 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    title: We are the house of dionysus roddy.
+    title: We are the house of dionysus Roddy
     subtitle: >-
-      We help guide DIY bands past the vultures and through the snake pit to
-      find and grow their fan base, book more shows and make a noise where
-      they're wanted.
+      We help guide DIY bands and artists past the vultures and through the
+      snake pit to find and grow their fan base, book more shows and make a
+      noise where they're wanted.
     styles:
       self:
         height: auto
@@ -125,48 +125,40 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-end
-  - type: TextSection
-    colors: colors-b
-    variant: variant-b
-    title: Contact Us
-    subtitle: 'If you want to get in touch use the form. '
-    text: |+
-      <form name="contact" method="POST" data-netlify="true">
-        <p>
-          <label>Your Name: <input type="text" name="name" /></label>
-        </p>
-        <p>
-          <label>Your Email: <input type="email" name="email" /></label>
-        </p>
-        <p>
-          <label>Message: <textarea name="message"></textarea></label>
-        </p>
-        <p>
-          <button type="submit">Send</button>
-        </p>
-      </form>
-
-      <input type="hidden" name="form-name" value="contact" />
-
-    elementId: Formfill1
+  - type: CtaSection
+    title: Get in touch...
+    text: >
+      If we can support you with anything, put you in touch with anybody or give
+      you some pointers feel free to drop us a line... 
+    actions:
+      - type: Button
+        label: Email HODR
+        altText: ''
+        url: 'mailto: roddy@hodr.co.uk'
+        showIcon: true
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: ''
+    colors: colors-f
+    backgroundSize: full
+    elementId: ''
     styles:
       self:
         height: auto
-        width: full
+        width: narrow
         padding:
           - pt-28
           - pb-28
           - pl-4
           - pr-4
+        alignItems: center
         justifyContent: center
-        borderColor: border-primary
-        borderWidth: 1
-        borderStyle: double
-        borderRadius: medium
+        flexDirection: col
       title:
-        textAlign: left
-      subtitle:
         textAlign: left
       text:
         textAlign: left
+      actions:
+        justifyContent: flex-start
 ---

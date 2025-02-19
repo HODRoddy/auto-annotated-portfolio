@@ -4,7 +4,7 @@ title: Dead Stilettos sell out EP launch
 colors: colors-a
 date: '2025-02-07'
 client: Dead Stilettos x Sour Grapes Records
-description: 'How Dead Stilettos SOLD OUT their EP launch '
+description: 'How Dead Stilettos SOLD OUT their debut EP launch '
 featuredImage:
   type: ImageBlock
   url: /images/White Logo (on black).png
