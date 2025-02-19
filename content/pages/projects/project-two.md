@@ -9,10 +9,6 @@ featuredImage:
   type: ImageBlock
   url: /images/White Logo (on black).png
   altText: Project thumbnail image
-media:
-  type: ImageBlock
-  url: /images/bg2.jpg
-  altText: Project image
 metaDescription: Grassroots music promotion
 metaTags:
   - type: MetaTag
