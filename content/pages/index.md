@@ -126,7 +126,7 @@ sections:
       actions:
         justifyContent: flex-end
   - type: TextSection
-    colors: colors-f
+    colors: colors-a
     variant: variant-a
     title: Contact Me
     subtitle: 'Get in touch '
