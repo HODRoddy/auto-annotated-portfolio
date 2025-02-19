@@ -160,6 +160,7 @@ sections:
           - pr-4
         justifyContent: center
         borderColor: border-primary
+        borderWidth: 3
       title:
         textAlign: left
       subtitle:
