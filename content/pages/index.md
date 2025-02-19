@@ -132,7 +132,7 @@ sections:
       you some pointers feel free to drop us a line... 
     actions:
       - type: Button
-        label: Try it now
+        label: Email HODR
         altText: ''
         url: /
         showIcon: true
