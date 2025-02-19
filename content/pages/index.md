@@ -177,6 +177,7 @@ sections:
       styles:
         submitLabel:
           textAlign: center
+      title: 'Form '
     styles:
       self:
         height: auto
