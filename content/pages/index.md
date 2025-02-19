@@ -159,7 +159,7 @@ sections:
           - pl-4
           - pr-4
         justifyContent: center
-        borderColor: border-secondary
+        borderColor: border-primary
       title:
         textAlign: left
       subtitle:
