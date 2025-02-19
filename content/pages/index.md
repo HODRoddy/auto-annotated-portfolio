@@ -150,7 +150,9 @@ sections:
           name: message
           label: Tell me about your project
           hideLabel: true
-          placeholder: Tell me about your project
+          placeholder: >-
+            Tell me about your project, feel free to stick a contact number
+            in/preferred contact method. 
           width: full
           isRequired: true
         - type: CheckboxFormControl
