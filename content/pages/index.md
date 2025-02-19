@@ -161,6 +161,7 @@ sections:
         justifyContent: center
         borderColor: border-primary
         borderWidth: 3
+        borderStyle: solid
       title:
         textAlign: left
       subtitle:
