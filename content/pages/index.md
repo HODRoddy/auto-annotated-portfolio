@@ -167,7 +167,7 @@ sections:
           width: full
           type: CheckboxFormControl
         - type: TextFormControl
-          name: name
+          name: message
           label: Name
           hideLabel: false
           placeholder: Your name
