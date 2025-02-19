@@ -128,8 +128,6 @@ sections:
   - type: ContactSection
     title: Contact Me
     text: |+
-      I look forward to hearing from you.
-
       <form name="contact" method="POST" netlify>
         <p>
           <label>Your Name: <input type="text" name="name" /></label>
@@ -138,7 +136,8 @@ sections:
           <label>Your Email: <input type="email" name="email" /></label>
         </p>
         <p>
-          <label>Your Mobile:</label>
+          <label>Your Mobile:  <textarea name="message"></textarea></label>
+          </select></label>
         </p>
         <p>
           <label>Message: <textarea name="message"></textarea></label>
