@@ -160,7 +160,7 @@ sections:
           - pr-4
         justifyContent: center
         borderColor: border-primary
-        borderWidth: 3
+        borderWidth: 1
         borderStyle: solid
         borderRadius: full
       title:
