@@ -13,7 +13,7 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    title: We are the house of dyonysus roddy.
+    title: We are the house of dionysus roddy.
     subtitle: >-
       We help guide DIY bands through the snake pit to find and grow your fan
       base, book more shows and make a noise where you're wanted.
