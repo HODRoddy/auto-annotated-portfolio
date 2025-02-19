@@ -14,7 +14,7 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: We are the house of dyonysus roddy.
-    subtitle: 'We help organise, growth'
+    subtitle: We manage
     styles:
       self:
         height: auto
