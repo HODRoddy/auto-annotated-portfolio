@@ -129,7 +129,7 @@ sections:
     colors: colors-d
     variant: variant-b
     title: Contact Us
-    subtitle: The section subtitle
+    subtitle: 'If you want to get in touch use the form. '
     text: |+
       <form name="contact" method="POST" data-netlify="true">
         <p>
