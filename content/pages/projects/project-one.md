@@ -3,7 +3,7 @@ type: ProjectLayout
 title: Working with grassroots venues
 colors: colors-a
 date: '2025-02-17'
-client: Awesome client
+client: Venues
 description: >-
   It’s hard to imagine that I’ve that I wrote all this code by myself, probably
   because I worked with an entire team :) but they definitely followed my lead
