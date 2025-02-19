@@ -127,7 +127,7 @@ sections:
         justifyContent: flex-end
   - type: ContactSection
     title: Contact Me
-    text: |
+    text: |+
       I look forward to hearing from you.
 
       <form name="contact" method="POST" netlify>
@@ -138,10 +138,7 @@ sections:
           <label>Your Email: <input type="email" name="email" /></label>
         </p>
         <p>
-          <label>Your Role: <select name="role[]" multiple>
-            <option value="leader">Leader</option>
-            <option value="follower">Follower</option>
-          </select></label>
+          <label>Your Mobile:</label>
         </p>
         <p>
           <label>Message: <textarea name="message"></textarea></label>
@@ -150,6 +147,7 @@ sections:
           <button type="submit">Send</button>
         </p>
       </form>
+
     form:
       type: FormBlock
       title: Title of the form
