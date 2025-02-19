@@ -4,7 +4,7 @@ title: "Blog content \U0001F5C2️"
 colors: colors-a
 date: '2024-06-03'
 author: content/data/team/doris-soto.json
-excerpt: More context that may or may not be helpful
+excerpt: When I can be arsed
 featuredImage:
   type: ImageBlock
   url: /images/featured-Image6.jpg
