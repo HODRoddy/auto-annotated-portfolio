@@ -16,7 +16,7 @@ sections:
     title: We are the house of dyonysus roddy.
     subtitle: >-
       We help guide DIY bands through the snake pit to find and grow your fan
-      base, book more shows
+      base, book more shows and make a noise where you're wanted.
     styles:
       self:
         height: auto
