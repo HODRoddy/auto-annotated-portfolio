@@ -170,7 +170,7 @@ sections:
           name: message
           label: 'Message... '
           hideLabel: false
-          placeholder: Your name
+          placeholder: Detail how I can help.. .
           width: full
           isRequired: false
       submitLabel: "Submit \U0001F680"
