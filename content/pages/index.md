@@ -134,7 +134,7 @@ sections:
       - type: Button
         label: Email HODR
         altText: ''
-        url: /
+        url: 'mailito: roddy@hodr.co.uk'
         showIcon: true
         icon: arrowRight
         iconPosition: right
