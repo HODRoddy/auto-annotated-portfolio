@@ -15,8 +15,8 @@ sections:
     backgroundSize: full
     title: We are the house of dyonysus roddy.
     subtitle: >-
-      We help you through the muddy waters and snake pit that is grassroots
-      music.
+      We help guide DIY bands through the snake pit to find and grow your fan
+      base,
     styles:
       self:
         height: auto
