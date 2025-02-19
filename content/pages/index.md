@@ -13,7 +13,7 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    title: We are the house of dionysus
+    title: We are the house of dionysus R
     subtitle: >-
       We help guide DIY bands and artists past the vultures and through the
       snake pit to find and grow their fan base, book more shows and make a
