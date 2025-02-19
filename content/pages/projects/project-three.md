@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: Getting yourself seen
 colors: colors-a
-date: '2022-01-22'
+date: '2025-02-22'
 client: Tips and tricks
 description: >-
   Making the music is just the beginning, what you do with it becomes what makes
