@@ -16,8 +16,8 @@ sections:
     title: We are the house of dionysus roddy.
     subtitle: >-
       We help guide DIY bands past the vultures and through the snake pit to
-      find and grow your fan base, book more shows and make a noise where you're
-      wanted.
+      find and grow their fan base, book more shows and make a noise where
+      they're wanted.
     styles:
       self:
         height: auto
