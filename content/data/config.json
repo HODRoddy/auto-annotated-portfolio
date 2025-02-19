@@ -88,7 +88,7 @@
             "phoneAltText": "My phone number",
             "email": "roddy@hodr.co.uk",
             "emailAltText": "My email",
-            "address": "",
+            "address": "9015 W Sunset Blvd, West Hollywood, CA 90069, United States",
             "addressAltText": "My address"
         },
         "copyrightText": "Built using [Netlify](https://www.netlify.com/)\n",
