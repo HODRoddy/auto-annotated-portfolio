@@ -157,7 +157,7 @@ sections:
         - name: Mobile number
           label: Mobile
           hideLabel: true
-          placeholder: Address
+          placeholder: Mobile
           isRequired: true
           width: 1/2
           type: TextFormControl
