@@ -127,14 +127,29 @@ sections:
         justifyContent: flex-end
   - type: ContactSection
     title: Contact Me
-    text: >+
-      <!-- Elfsight Contact Form | Untitled Contact Form -->
+    text: |+
+      <form name="contact" method="POST" data-netlify="true">
+        <p>
+          <label>Your Name: <input type="text" name="name" /></label>
+        </p>
+        <p>
+          <label>Your Email: <input type="email" name="email" /></label>
+        </p>
+        <p>
+          <label>Your Role: <select name="role\[]" multiple>
+            <option value="leader">Leader</option>
+            <option value="follower">Follower</option>
+          </select></label>
+        </p>
+        <p>
+          <label>Message: <textarea name="message"></textarea></label>
+        </p>
+        <p>
+          <button type="submit">Send</button>
+        </p>
+      </form>
 
-      \<script src="https\://static.elfsight.com/platform/platform.js"
-      async></script>
-
-      <div class="elfsight-app-f20f5dde-f8bd-4e60-ba84-a263eaac0659"
-      data-elfsight-app-lazy></div>
+      <input type="hidden" name="form-name" value="contact" />
 
     form:
       type: FormBlock
