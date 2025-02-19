@@ -157,7 +157,7 @@ sections:
           name: updates
           label: Sign me up to receive updates
           width: full
-          isRequired: 'false'
+          isRequired: false
       submitLabel: Send Message
       elementId: contact-form
       styles:
