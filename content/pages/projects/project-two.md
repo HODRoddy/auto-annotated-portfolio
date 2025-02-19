@@ -13,6 +13,7 @@ media:
   type: ImageBlock
   url: /images/bg2.jpg
   altText: Project image
+metaDescription: Grassroots music promotion
 ---
 ![](/images/DS%20-%20EP%20Release%20Gig%20Poster%20-%20V3.png)
 
