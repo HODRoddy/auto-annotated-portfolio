@@ -140,12 +140,12 @@ sections:
           width: 1/2
           isRequired: 'true'
         - type: EmailFormControl
-          name: email
+          name: email-address
           label: Name
-          hideLabel: true
-          placeholder: Your email
-          width: 1/2
-          isRequired: 'true'
+          hideLabel: false
+          placeholder: Your name
+          width: full
+          isRequired: false
         - type: TextareaFormControl
           name: message
           label: Tell me about your project
