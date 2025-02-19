@@ -88,7 +88,7 @@
             "phoneAltText": "My phone number",
             "email": "roddy@hodr.co.uk",
             "emailAltText": "My email",
-            "address": "The fucking moon",
+            "address": "Number 2, The fucking moon",
             "addressAltText": "My address"
         },
         "copyrightText": "Built using [Netlify](https://www.netlify.com/)\n",
