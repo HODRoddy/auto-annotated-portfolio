@@ -162,7 +162,7 @@ sections:
         borderColor: border-primary
         borderWidth: 1
         borderStyle: solid
-        borderRadius: full
+        borderRadius: medium
       title:
         textAlign: left
       subtitle:
