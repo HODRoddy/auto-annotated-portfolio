@@ -126,7 +126,7 @@ sections:
       actions:
         justifyContent: flex-end
   - type: CtaSection
-    title: Let's do this
+    title: Get in touch...
     text: >-
       The Stackbit theme is flexible and scalable to every need. It can manage
       any layout and any screen.
