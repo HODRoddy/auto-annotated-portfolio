@@ -126,7 +126,7 @@ sections:
       actions:
         justifyContent: flex-end
   - type: TextSection
-    colors: colors-e
+    colors: colors-c
     variant: variant-b
     title: Contact Us
     subtitle: 'If you want to get in touch use the form. '
