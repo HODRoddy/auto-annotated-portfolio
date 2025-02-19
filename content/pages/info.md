@@ -155,5 +155,5 @@ metaDescription: >-
 metaTags:
   - type: MetaTag
     property: 'og:title'
-    content: ''
+    content: Services for bands – Tailored Management for Real Growth
 ---
