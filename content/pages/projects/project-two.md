@@ -18,6 +18,7 @@ metaTags:
   - type: MetaTag
     property: 'og:title'
     content: ''
+metaTitle: 'Dead Stilettos sold out gig '
 ---
 ![](/images/DS%20-%20EP%20Release%20Gig%20Poster%20-%20V3.png)
 
