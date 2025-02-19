@@ -184,7 +184,7 @@ sections:
           textAlign: left
     colors: colors-f
     backgroundSize: full
-    elementId: ''
+    elementId: ' <textarea name="message"></textarea></label>'
     styles:
       self:
         height: auto
