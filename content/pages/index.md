@@ -13,7 +13,7 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    title: We are H.O.D.Y
+    title: We are H.O.D.R
     subtitle: >-
       We help guide DIY bands and artists past the vultures and through the
       snake pit to find and grow their fan base, book more shows and make a
