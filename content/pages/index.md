@@ -151,7 +151,7 @@ sections:
     elementId: Formfill1
     styles:
       self:
-        height: screen
+        height: auto
         width: full
         padding:
           - pt-28
