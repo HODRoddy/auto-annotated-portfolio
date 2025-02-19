@@ -127,9 +127,9 @@ sections:
         justifyContent: flex-end
   - type: CtaSection
     title: Get in touch...
-    text: >-
-      The Stackbit theme is flexible and scalable to every need. It can manage
-      any layout and any screen.
+    text: >
+      If we can support you with anything, put you in touch with anybody or give
+      you some pointers feel free to drop us a line... 
     actions:
       - type: Button
         label: Try it now
