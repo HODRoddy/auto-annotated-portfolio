@@ -126,12 +126,12 @@ sections:
       actions:
         justifyContent: flex-end
   - type: TextSection
-    colors: colors-f
-    variant: variant-a
-    title: Contact Me
-    subtitle: 'Get in touch '
+    colors: colors-b
+    variant: variant-b
+    title: Contact Us
+    subtitle: 'If you want to get in touch use the form. '
     text: |+
-      <form name="contact" method="POST" netlify>
+      <form name="contact" method="POST" data-netlify="true">
         <p>
           <label>Your Name: <input type="text" name="name" /></label>
         </p>
@@ -146,23 +146,27 @@ sections:
         </p>
       </form>
 
+      <input type="hidden" name="form-name" value="contact" />
 
-
-    elementId: contact
+    elementId: Formfill1
     styles:
       self:
         height: auto
-        width: narrow
+        width: full
         padding:
           - pt-28
           - pb-28
           - pl-4
           - pr-4
         justifyContent: center
+        borderColor: border-primary
+        borderWidth: 1
+        borderStyle: double
+        borderRadius: medium
       title:
-        textAlign: center
+        textAlign: left
       subtitle:
-        textAlign: center
+        textAlign: left
       text:
-        textAlign: center
+        textAlign: left
 ---
