@@ -128,7 +128,7 @@ sections:
   - type: TextSection
     colors: colors-f
     variant: variant-a
-    title: The Section Title
+    title: Contact Me
     subtitle: The section subtitle
     text: |+
       <form name="contact" method="POST" data-netlify="true">
