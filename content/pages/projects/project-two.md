@@ -4,7 +4,7 @@ title: Another cool project
 colors: colors-a
 date: '2021-12-20'
 client: Dead Stilettos
-description: xxx
+description: 'How Dead Stilettos SOLD OUT their EP launch '
 featuredImage:
   type: ImageBlock
   url: /images/bg2.jpg
