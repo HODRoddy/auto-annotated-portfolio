@@ -5,7 +5,7 @@
         "type": "Header",
         "headerVariant": "variant-c",
         "isSticky": false,
-        "title": "Personal",
+        "title": "HODR",
         "isTitleVisible": true,
         "primaryLinks": [
             {
@@ -44,6 +44,13 @@
             "self": {
                 "width": "full"
             }
+        },
+        "logo": {
+            "type": "ImageBlock",
+            "url": "/images/HODR2.png",
+            "altText": "House of Dionysus Roddy ",
+            "caption": "HODR",
+            "elementId": ""
         }
     },
     "footer": {
@@ -88,7 +95,12 @@
         "styles": {
             "self": {
                 "width": "narrow",
-                "padding": ["pt-16", "pb-16", "pr-4", "pl-4"]
+                "padding": [
+                    "pt-16",
+                    "pb-16",
+                    "pr-4",
+                    "pl-4"
+                ]
             }
         }
     }
