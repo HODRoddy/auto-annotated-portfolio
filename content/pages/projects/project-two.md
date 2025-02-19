@@ -7,7 +7,7 @@ client: Dead Stilettos
 description: 'How Dead Stilettos SOLD OUT their EP launch '
 featuredImage:
   type: ImageBlock
-  url: /images/DS - EP Release Gig Poster - V3.png
+  url: /images/White Logo (on black).png
   altText: Project thumbnail image
 media:
   type: ImageBlock
