@@ -170,8 +170,9 @@ sections:
     variant: variant-a
     subtitle: 'Contact:'
     colors: colors-f
-    text: |
-      <roddy@hodr.co.uk>
+    text: |+
+      mailto:roddy@hodr.co.uk
+
   - type: DividerSection
     styles:
       self:
