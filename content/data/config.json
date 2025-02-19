@@ -24,7 +24,16 @@
                 "url": "/blog"
             }
         ],
-        "socialLinks": [],
+        "socialLinks": [
+            {
+                "type": "Social",
+                "label": "Facebook",
+                "altText": "",
+                "url": "https://liamlawsoneth.medium.com/fuck-social-media-52c5547e9483",
+                "icon": "instagram",
+                "elementId": ""
+            }
+        ],
         "styles": {
             "self": {
                 "width": "full"
