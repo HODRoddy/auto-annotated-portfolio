@@ -151,7 +151,8 @@ sections:
     elementId: contact email who
 metaDescription: >-
   artist management services, music promotion UK, press and media, indie music
-  growth, band promotion, venue connections, artist management support
+  growth, band promotion, venue connections, artist management support, funding
+  options for bands
 metaTags:
   - type: MetaTag
     property: 'og:title'
