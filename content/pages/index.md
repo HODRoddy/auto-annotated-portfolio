@@ -161,7 +161,7 @@ sections:
         justifyContent: center
         borderColor: border-primary
         borderWidth: 1
-        borderStyle: solid
+        borderStyle: double
         borderRadius: medium
       title:
         textAlign: left
