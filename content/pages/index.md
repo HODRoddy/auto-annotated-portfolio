@@ -129,7 +129,7 @@ sections:
     colors: colors-f
     variant: variant-a
     title: Contact Me
-    subtitle: The section subtitle
+    subtitle: 'Get in touch '
     text: |+
       <form name="contact" method="POST" data-netlify="true">
         <p>
