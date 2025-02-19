@@ -13,11 +13,36 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    text: >-
-      ## Hey I’m a developer. I’ve been born and raised in the world, and that’s
-      also where I’m based. I’m currently a free agent, ex-this, ex-that,
-      ex-super big name. When I’m not coding, writing or creating, I eat
-      cereals. I have a dog, check her out [@mygod](https://www.stackbit.com/).
+    text: >+
+      As an artist manager, my goal is to help you grow your career without
+      losing your authenticity. I offer a range of services designed to help you
+      get noticed, build a loyal fanbase, and take your music to new heights.
+
+
+      **Services:**
+
+
+      *   **Promotion & Press Coverage**:
+          Getting the right press can make or break an indie band. I work with media outlets that fit your sound, securing features and interviews that bring attention to your work.
+
+      <!---->
+
+
+      *   **Venue Connections & Booking**:
+          "Playing live is where it all comes together. I connect you with the best venues and promoters who align with your style, ensuring your shows are packed and your fans are engaged."
+
+      <!---->
+
+
+      *   **Audience Growth & Engagement**:
+          "Building a dedicated fanbase is key to long-term success. I help you craft an authentic online presence and connect with fans who are as passionate about your music as you are."
+
+      <!---->
+
+
+      *   **Strategic Career Development**:
+          Whether it’s deciding on your next release or planning a tour, I work with you to create a strategy that’s built around your long-term goals and unique sound.
+
     media:
       type: ImageBlock
       url: /images/about.jpg
