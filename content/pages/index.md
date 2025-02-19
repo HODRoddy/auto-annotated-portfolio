@@ -146,7 +146,7 @@ sections:
         </p>
       </form>
 
-    elementId: ''
+    elementId: contact
     styles:
       self:
         height: auto
