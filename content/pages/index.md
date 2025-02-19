@@ -130,13 +130,23 @@ sections:
     variant: variant-a
     title: The Section Title
     subtitle: The section subtitle
-    text: >-
-      Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
-      doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
-      inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
-      Sed ut perspiciatis undeomnis iste natus error sit voluptatem accusantium
-      doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
-      inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
+    text: |+
+      <form name="contact" method="POST" data-netlify="true">
+        <p>
+          <label>Your Name: <input type="text" name="name" /></label>
+        </p>
+        <p>
+          <label>Your Email: <input type="email" name="email" /></label>
+        </p>
+        </p>
+        <p>
+          <label>Message: <textarea name="message"></textarea></label>
+        </p>
+        <p>
+          <button type="submit">Send</button>
+        </p>
+      </form>
+
     elementId: ''
     styles:
       self:
