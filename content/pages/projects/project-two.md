@@ -15,6 +15,16 @@ metaTags:
     property: 'og:title'
     content: ''
 metaTitle: 'Dead Stilettos sold out gig '
+media:
+  type: VideoBlock
+  title: Title of the video
+  url: 'https://youtu.be/BD-YliszGkA'
+  elementId: ''
+  autoplay: false
+  loop: false
+  muted: false
+  controls: true
+  aspectRatio: '16:9'
 ---
 ![](/images/DS%20-%20EP%20Release%20Gig%20Poster%20-%20V3.png)
 
