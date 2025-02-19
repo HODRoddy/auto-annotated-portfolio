@@ -85,7 +85,7 @@ sections:
         borderStyle: solid
   - type: MediaGallerySection
     colors: colors-f
-    subtitle: 'I worked with these folks:'
+    subtitle: 'We work with the likes of: '
     images:
       - type: ImageBlock
         url: /images/sonic.jpg
