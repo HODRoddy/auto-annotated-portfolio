@@ -130,24 +130,14 @@ sections:
     variant: variant-a
     title: Contact Me
     subtitle: 'Get in touch '
-    text: |+
-      <form name="contact" method="POST" netlify>
-        <p>
-          <label>Your Name: <input type="text" name="name" /></label>
-        </p>
-        <p>
-          <label>Your Email: <input type="email" name="email" /></label>
-        </p>
-        <p>
-          <label>Message: <textarea name="message"></textarea></label>
-        </p>
-        <p>
-          <button type="submit">Send</button>
-        </p>
-      </form>
+    text: >
+      <!-- Elfsight Contact Form | Untitled Contact Form -->
 
+      <script src="https://static.elfsight.com/platform/platform.js"
+      async></script>
 
-
+      <div class="elfsight-app-f20f5dde-f8bd-4e60-ba84-a263eaac0659"
+      data-elfsight-app-lazy></div>
     elementId: contact
     styles:
       self:
