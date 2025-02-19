@@ -15,8 +15,9 @@ sections:
     backgroundSize: full
     title: We are the house of dionysus roddy.
     subtitle: >-
-      We help guide DIY bands through the snake pit to find and grow your fan
-      base, book more shows and make a noise where you're wanted.
+      We help guide DIY bands past the vultures and through the snake pit to
+      find and grow their fan base, book more shows and make a noise where
+      they're wanted.
     styles:
       self:
         height: auto
@@ -127,7 +128,7 @@ sections:
   - type: ContactSection
     colors: colors-f
     backgroundSize: full
-    title: "Got an interesting project? Tell me more...\U0001F4AC"
+    title: "Interested in speaking? Stick your details below...\U0001F4AC"
     form:
       type: FormBlock
       elementId: sign-up-form
@@ -153,10 +154,10 @@ sections:
           isRequired: true
           width: 1/2
           type: EmailFormControl
-        - name: address
-          label: Address
+        - name: Mobile number
+          label: Mobile
           hideLabel: true
-          placeholder: Address
+          placeholder: Mobile
           isRequired: true
           width: 1/2
           type: TextFormControl

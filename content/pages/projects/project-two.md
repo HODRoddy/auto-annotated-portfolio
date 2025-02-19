@@ -2,8 +2,8 @@
 type: ProjectLayout
 title: Dead Stilettos sell out EP launch
 colors: colors-a
-date: '2021-12-20'
-client: Dead Stilettos
+date: '2025-02-07'
+client: Dead Stilettos x Sour Grapes Records
 description: 'How Dead Stilettos SOLD OUT their EP launch '
 featuredImage:
   type: ImageBlock
@@ -28,5 +28,4 @@ There was an incredible write up afterwards by[ Abby at Music Is To Blame](https
 
 Never an easy  feat selling out especially given the competitiveness of the music scene in Manchester but months of hard work, planning and a strong connection with the fans all combined for a perfect evening.
 
-<iframe style="border-radius:12px" src="https\://open.spotify.com/embed/album/5CSuH3IGA8Tj5OHfFwfDk4?utm\_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/artist/6KGeS9on2ykpqmQh3L7t7y?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe> 
