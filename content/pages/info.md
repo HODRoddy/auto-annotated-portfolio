@@ -152,4 +152,8 @@ sections:
 metaDescription: >-
   artist management services, music promotion UK, press and media, indie music
   growth, band promotion, venue connections, artist management support
+metaTags:
+  - type: MetaTag
+    property: 'og:title'
+    content: ''
 ---
