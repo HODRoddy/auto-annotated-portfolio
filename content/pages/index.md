@@ -161,11 +161,6 @@ sections:
           isRequired: true
           width: 1/2
           type: TextFormControl
-        - name: updatesConsent
-          label: Sign me up to recieve updates
-          isRequired: false
-          width: full
-          type: CheckboxFormControl
         - type: TextFormControl
           name: message
           label: 'Message... '
@@ -173,6 +168,11 @@ sections:
           placeholder: Detail how I can help.. .
           width: full
           isRequired: false
+        - name: updatesConsent
+          label: Sign me up to recieve updates
+          isRequired: false
+          width: full
+          type: CheckboxFormControl
       submitLabel: "Submit \U0001F680"
       styles:
         submitLabel:
