@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: Dead Stilettos sell out EP launch
 colors: colors-a
-date: '2024-02-07'
+date: '2025-02-07'
 client: Dead Stilettos
 description: 'How Dead Stilettos SOLD OUT their EP launch '
 featuredImage:
