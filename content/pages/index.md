@@ -127,7 +127,15 @@ sections:
         justifyContent: flex-end
   - type: ContactSection
     title: Contact Me
-    text: I'm look forward to hearing from you.
+    text: >+
+      <!-- Elfsight Contact Form | Untitled Contact Form -->
+
+      \<script src="https\://static.elfsight.com/platform/platform.js"
+      async></script>
+
+      <div class="elfsight-app-f20f5dde-f8bd-4e60-ba84-a263eaac0659"
+      data-elfsight-app-lazy></div>
+
     form:
       type: FormBlock
       title: Title of the form
