@@ -149,4 +149,7 @@ sections:
     text: |
       <roddy@hodr.co.uk>
     elementId: contact email who
+metaDescription: >-
+  artist management services, music promotion UK, press and media, indie music
+  growth, band promotion, venue connections, artist management support
 ---
