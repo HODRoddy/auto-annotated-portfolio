@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: Another cool project
+title: Dead Stilettos sell out EP launch
 colors: colors-a
 date: '2021-12-20'
 client: Dead Stilettos
