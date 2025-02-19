@@ -5,9 +5,8 @@ colors: colors-a
 date: '2022-01-22'
 client: Tips and tricks
 description: >-
-  It’s hard to imagine that I’ve that I wrote all this code by myself, probably
-  because I worked with an entire team :) but they definitely followed my lead
-  most of the time.
+  Making the music is just the beginning, what you do with it becomes what makes
+  or breaks you
 featuredImage:
   type: ImageBlock
   url: /images/bg3.jpg
