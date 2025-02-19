@@ -14,7 +14,9 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: We are the house of dyonysus roddy.
-    subtitle: We manage
+    subtitle: >-
+      We help you through the muddy waters and snake pit that is grassroots
+      music.
     styles:
       self:
         height: auto
