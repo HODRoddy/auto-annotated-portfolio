@@ -112,21 +112,17 @@ media:
   controls: true
   aspectRatio: '16:9'
 ---
-Forming in 2022 in the musical mecca that is Manchester Dead Stilettos thrashed into the punk scene with their 'thunderous punk belter' **Don't wake me up** grabbing plaudits for 'airy vocals, fuzzed out guitars, killer riffs and ripping instrumentals' and **Drive** highlighting their rising underground status and DIY approach in Manchester. 
+Forming in 2022 in the musical mecca that is Manchester Dead Stilettos thrashed into the punk scene with their 'thunderous punk belter' **Don't wake me up** grabbing plaudits for 'airy vocals, fuzzed out guitars, killer riffs and ripping instrumentals' and **Drive** highlighting their rising underground status and DIY approach... they then tore that up and found their sound. 
+
+
 
 > "Born from a speck of an idea, gritty friendship and sheer determination, Dead Stilettos are Manchester’s hottest new property. They have shoehorned their way into the DIY scene bringing a dose of punk mayhem straight to the main vein.  Since first appearing in 2022, they have developed a reputation for high octane live performances and their own distinct brand of Punk"
 >
->
->
 > [Le Crowley](https://www.backseatmafia.com/author/lesacr/)
 >
->  \- Editor Backseat Mafia 
->
+> \- Editor Backseat Mafia
 >
 > ![](/images/bsm.png)
->
->
->
 
 Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor pretium id. Sed imperdiet mattis eleifend. Vivamus suscipit et neque imperdiet venenatis. In malesuada sed urna eget vehicula. Donec fermentum tortor sit amet nisl elementum fringilla. Pellentesque dapibus suscipit faucibus. Nullam malesuada sed urna quis rutrum. Donec facilisis lorem id maximus mattis. Vestibulum quis elit magna. Vestibulum accumsan blandit consequat. Phasellus quis posuere quam.
 
@@ -134,11 +130,7 @@ Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non efficitur
 
 > [*Abby T*](https://www.instagram.com/abs.tapp75/)
 >
->  
->
 > *- Music Is To Blame*
->
->  
 >
 > ![](/images/mitb-removebg-preview.png)
 
