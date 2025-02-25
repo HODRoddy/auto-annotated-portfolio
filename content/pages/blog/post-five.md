@@ -112,23 +112,17 @@ media:
   controls: true
   aspectRatio: '16:9'
 ---
-> Forming in 2022 in the musical mecca that is Manchester Dead Stilettos thrashed into the punk scene with their 'thunderous punk belter' 
->
-> **Don't wake me up**
->
->  grabbing plaudits for 'airy vocals, fuzzed out guitars, killer riffs and ripping instrumentals' and 
->
-> **Drive**
->
->  highlighting their rising underground status and DIY approach... they then tore that up and found their sound.
+Forming in 2022 in the musical mecca that is Manchester Dead Stilettos thrashed into the punk scene with their 'thunderous punk belter' **Don't wake me up** grabbing plaudits for '*airy vocals, fuzzed out guitars, killer riffs and ripping instrumentals*' and **Drive** bringing attention to their rising underground status, stage presence and DIY approach... *'raw but polished, commanding but infectious, heart pumping and addicting*'. 
 
-> "Born from a speck of an idea, gritty friendship and sheer determination, Dead Stilettos are Manchester’s hottest new property. They have shoehorned their way into the DIY scene bringing a dose of punk mayhem straight to the main vein.  Since first appearing in 2022, they have developed a reputation for high octane live performances and their own distinct brand of Punk"
+> *"Born from a speck of an idea, gritty friendship and sheer determination, Dead Stilettos are Manchester’s hottest new property. They have shoehorned their way into the DIY scene bringing a dose of punk mayhem straight to the main vein.  Since first appearing in 2022, they have developed a reputation for high octane live performances and their own distinct brand of Punk"*
 
 > [Le Crowley](https://www.backseatmafia.com/author/lesacr/)
 
 > \- Editor Backseat Mafia
 
 > ![](/images/bsm.png)
+
+It was after these releases though that they truly found their sound. Meeting 
 
 Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor pretium id. Sed imperdiet mattis eleifend. Vivamus suscipit et neque imperdiet venenatis. In malesuada sed urna eget vehicula. Donec fermentum tortor sit amet nisl elementum fringilla. Pellentesque dapibus suscipit faucibus. Nullam malesuada sed urna quis rutrum. Donec facilisis lorem id maximus mattis. Vestibulum quis elit magna. Vestibulum accumsan blandit consequat. Phasellus quis posuere quam.
 
