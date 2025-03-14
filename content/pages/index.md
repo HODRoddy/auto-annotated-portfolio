@@ -45,6 +45,17 @@ sections:
         justifyContent: flex-start
     type: HeroSection
     actions: []
+    text: >
+      Currently managing Dead Stilettos alongside a full time job. 
+
+
+      Music industry needs less sharp elbows and more co-operation so if you've
+      landed here and need help with anything ping me an email and if I've got
+      any answers, contacts, recommendations or can intro you to anything handy
+      I'm a big believer in supporting. 
+
+
+      We're all in this together.  
   - colors: colors-f
     type: FeaturedProjectsSection
     elementId: ''
