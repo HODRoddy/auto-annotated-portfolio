@@ -4,9 +4,7 @@ title: 'Quotes from Lemmy (in lieu of anything else better yet) '
 colors: colors-a
 date: '2025-02-17'
 client: Venues
-description: >-
-  Making contact with grassroots venues early is crucial to your roll out plan.
-  Start local and grow. 
+description: 'Honestly you try building a website. '
 featuredImage:
   type: ImageBlock
   url: /images/bg1.jpg
