@@ -45,7 +45,7 @@ sections:
 
     media:
       type: ImageBlock
-      url: /images/featured-Image2.jpg
+      url: /images/post-2.jpg
       altText: Hero image
     styles:
       self:
