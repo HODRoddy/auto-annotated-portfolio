@@ -83,53 +83,6 @@ sections:
         justifyContent: center
         borderWidth: 1
         borderStyle: solid
-  - type: MediaGallerySection
-    colors: colors-f
-    subtitle: 'We work with the likes of: '
-    images:
-      - type: ImageBlock
-        url: /images/sonic.jpg
-        altText: Logo one
-        caption: Logo one
-      - type: ImageBlock
-        url: /images/Louder-Than-War-Logo-Black-Label-R.png
-        altText: Logo two
-        caption: Logo two
-      - type: ImageBlock
-        url: /images/mitb-removebg-preview.png
-        altText: Logo three
-        caption: Logo three
-      - type: ImageBlock
-        url: /images/bbcintro-removebg-preview.png
-        altText: Logo four
-        caption: Logo four
-      - type: ImageBlock
-        url: /images/help musicians.png
-        altText: Logo five
-        caption: Logo five
-    spacing: 3
-    columns: 5
-    aspectRatio: auto
-    showCaption: false
-    enableHover: false
-    styles:
-      self:
-        width: wide
-        height: auto
-        padding:
-          - pt-8
-          - pb-8
-          - pl-4
-          - pr-4
-        justifyContent: center
-        borderRadius: none
-        borderWidth: 0
-        borderStyle: none
-        borderColor: border-dark
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
   - type: DividerSection
     styles:
       self:
