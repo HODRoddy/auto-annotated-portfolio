@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: Working with grassroots venues
+title: 'Quotes from Lemmy (in lieu of anything else better yet) '
 colors: colors-a
 date: '2025-02-17'
 client: Venues
