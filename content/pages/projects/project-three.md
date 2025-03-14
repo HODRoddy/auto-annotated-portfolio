@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: Getting yourself seen
+title: Learning to build a website
 colors: colors-a
 date: '2025-02-18'
 client: Tips and tricks
