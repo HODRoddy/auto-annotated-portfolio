@@ -5,8 +5,8 @@ colors: colors-a
 date: '2025-02-18'
 client: Ongoing projects
 description: >-
-  Making the music is just the beginning, what you do with it becomes what makes
-  or breaks you
+  ...wasn't on the managerial job description but nor is half the shit you have
+  to do if you're on a shoestring budget. Suck it up. 
 featuredImage:
   type: ImageBlock
   url: /images/bg3.jpg
