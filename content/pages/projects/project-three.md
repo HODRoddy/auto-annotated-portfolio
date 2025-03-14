@@ -3,7 +3,7 @@ type: ProjectLayout
 title: Learning to build a website
 colors: colors-a
 date: '2025-02-18'
-client: Tips and tricks
+client: Ongoing projects
 description: >-
   Making the music is just the beginning, what you do with it becomes what makes
   or breaks you
