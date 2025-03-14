@@ -1,11 +1,10 @@
 ---
 type: PostLayout
-title: AI are so hot right now
+title: Dead Stilettos
 colors: colors-a
 date: '2024-05-02'
 author: content/data/team/doris-soto.json
-excerpt: >-
-  More context that may or may not be helpful
+excerpt: 'Featured artist '
 featuredImage:
   type: ImageBlock
   url: /images/featured-Image5.jpg
@@ -45,7 +44,7 @@ bottomSections:
     showReadMoreLink: true
   - type: ContactSection
     backgroundSize: full
-    title: 'Stay up-to-date with my words ✍️'
+    title: Stay up-to-date with my words ✍️
     colors: colors-f
     form:
       type: FormBlock
@@ -102,13 +101,38 @@ bottomSections:
         textAlign: left
       text:
         textAlign: left
+media:
+  type: VideoBlock
+  title: 'Dead Stilettos Live '
+  url: 'https://youtu.be/BD-YliszGkA'
+  elementId: ''
+  autoplay: false
+  loop: false
+  muted: false
+  controls: true
+  aspectRatio: '16:9'
 ---
+Forming in 2022 in the musical mecca that is Manchester Dead Stilettos thrashed into the punk scene with their 'thunderous punk belter' **Don't wake me up** grabbing plaudits for '*airy vocals, fuzzed out guitars, killer riffs and ripping instrumentals*' and **Drive** bringing attention to their rising underground status, stage presence and DIY approach... *'raw but polished, commanding but infectious, heart pumping and addicting*'. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante lorem, tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at auctor sapien. Etiam at cursus enim. Suspendisse sed augue tortor. Nunc eu magna vitae lorem pellentesque fermentum. Sed in facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem semper. Donec sed facilisis nibh. Curabitur eget dui in libero euismod commodo nec sit amet est. Etiam id ipsum aliquam, vehicula erat sit amet, consequat tortor.
+> *"Born from a speck of an idea, gritty friendship and sheer determination, Dead Stilettos are Manchester’s hottest new property. They have shoehorned their way into the DIY scene bringing a dose of punk mayhem straight to the main vein.  Since first appearing in 2022, they have developed a reputation for high octane live performances and their own distinct brand of Punk"*
+
+> [Le Crowley](https://www.backseatmafia.com/author/lesacr/)
+
+> \- Editor Backseat Mafia
+
+> ![](/images/bsm.png)
+
+It was after these releases though that they truly found their sound. Meeting 
 
 Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor pretium id. Sed imperdiet mattis eleifend. Vivamus suscipit et neque imperdiet venenatis. In malesuada sed urna eget vehicula. Donec fermentum tortor sit amet nisl elementum fringilla. Pellentesque dapibus suscipit faucibus. Nullam malesuada sed urna quis rutrum. Donec facilisis lorem id maximus mattis. Vestibulum quis elit magna. Vestibulum accumsan blandit consequat. Phasellus quis posuere quam.
 
-> “Everybody should learn to program a computer, because it teaches you how to think.”
+> “It was an evening absolutely packed with energy, passion, intensity and just all-around great vibes flooding the room. From the lights to the audience interaction and the performances themselves, it was an incredible experience... a night for the ages”.
+
+> [*Abby T*](https://www.instagram.com/abs.tapp75/)
+>
+> *- Music Is To Blame*
+>
+> ![](/images/mitb-removebg-preview.png)
 
 Vestibulum ullamcorper risus auctor eleifend consequat. Vivamus mollis in tellus ac ullamcorper. Vestibulum sit amet bibendum ipsum, vitae rutrum ex. Nullam cursus, urna et dapibus aliquam, urna leo euismod metus, eu luctus justo mi eget mauris. Proin felis leo, volutpat et purus in, lacinia luctus eros. Pellentesque lobortis massa scelerisque lorem ullamcorper, sit amet elementum nulla scelerisque. In volutpat efficitur nulla, aliquam ornare lectus ultricies ac. Mauris sagittis ornare dictum. Nulla vel felis ut purus fermentum pretium. Sed id lectus ac diam aliquet venenatis. Etiam ac auctor enim. Nunc velit mauris, viverra vel orci ut, egestas rhoncus diam. Morbi scelerisque nibh tellus, vel varius urna malesuada sed. Etiam ultricies sem consequat, posuere urna non, maximus ex. Mauris gravida diam sed augue condimentum pulvinar vel ac dui. Integer vel convallis justo.
 
