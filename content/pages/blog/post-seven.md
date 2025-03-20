@@ -1,6 +1,6 @@
 ---
 type: PostLayout
-title: 'Don''t press this button '
+title: "Don't press this button \U0001F518"
 colors: colors-a
 date: '2024-06-10'
 author: content/data/team/doris-soto.json
