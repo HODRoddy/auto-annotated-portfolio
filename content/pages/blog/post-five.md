@@ -120,9 +120,9 @@ Forming in 2022 in the musical mecca that is Manchester Dead Stilettos thrashed 
 
 > ![](https://preview--hodrv2-5927b.stackbit.dev/images/bsm.png)
 
-They knew that while they were capturing their sound they would have to work hard and do things their own way and nothing epitomised that more than the legendary Castlefield Bowl gig on top of a barge (where the [Love is extinct](https://www.youtube.com/watch?v=3K3wXoGO4wY) video captures the day). 
+They knew that while they were capturing their sound they would have to work hard and do things their own way and nothing epitomised that more than the legendary Castlefield Bowl gig on top of a barge (where the [Love is extinct](https://www.youtube.com/watch?v=3K3wXoGO4wY) video captures the day).
 
-It was after these releases that they truly found their sound. Striking up a conversation in the smoking area they met their drummer Lucas and going onto record their first EP 'Dead Stilettos' they met a 'sound engineer' in Gaz who joined on sax and synth completing the set. 
+It was after these releases that they truly found their sound. Striking up a conversation in the smoking area they met their drummer Lucas and going onto record their first EP 'Dead Stilettos' they met a 'sound engineer' in Gaz who joined on sax and synth completing the set.
 
 They went onto sell out YES Basement for their first live performance of the debut EP
 
@@ -130,4 +130,4 @@ They went onto sell out YES Basement for their first live performance of the deb
 
 > [*Abby T*](https://www.instagram.com/abs.tapp75/)*- Music Is To Blame*![](/images/mitb-removebg-preview.png)
 
-There's a big 2025 in store for Dead Stilettos with a tour of the North confirmed, a single and album release, several live studio records and some big slots to be announced...
+There's a big 2025 in store for Dead Stilettos with a tour of the North confirmed, a single and album release, several live studio records and some massive slots to be announced...
