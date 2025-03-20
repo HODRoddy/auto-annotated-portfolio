@@ -4,7 +4,7 @@ title: "Don't press this button \U0001F518"
 colors: colors-a
 date: '2024-06-10'
 author: content/data/team/doris-soto.json
-excerpt: More content that may or may not be helpful
+excerpt: Please...
 featuredImage:
   type: ImageBlock
   url: /images/featured-Image1.jpg
