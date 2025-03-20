@@ -104,7 +104,7 @@ bottomSections:
 media:
   type: VideoBlock
   title: 'Dead Stilettos Live '
-  url: ''
+  url: 'https://youtu.be/UHPnrFX2ixo'
   elementId: ''
   autoplay: false
   loop: false
