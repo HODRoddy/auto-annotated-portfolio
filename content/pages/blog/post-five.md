@@ -104,7 +104,8 @@ bottomSections:
 media:
   type: VideoBlock
   title: 'Dead Stilettos Live '
-  url: 'https://youtu.be/BD-YliszGkA'
+  url: >-
+    https://drive.google.com/file/d/1N9L5_U6YooR8fsSZ4PEz7M3zspbLg_xH/view?usp=drive_link
   elementId: ''
   autoplay: false
   loop: false
