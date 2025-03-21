@@ -2,7 +2,7 @@
 type: PostLayout
 title: Dead Stilettos
 colors: colors-a
-date: '2024-05-02'
+date: '2025-02-07'
 author: content/data/team/doris-soto.json
 excerpt: 'Featured artist '
 featuredImage:
@@ -65,6 +65,14 @@ media:
   muted: false
   controls: true
   aspectRatio: '16:9'
+addTitleSuffix: true
+metaTitle: Dead Stilettos
+metaDescription: Dead Stilettos Feature
+socialImage: /images/White Logo (on black).png
+metaTags:
+  - type: MetaTag
+    property: 'og:title'
+    content: Punk
 ---
 ***Garage rock/egg punk // For fans of: DEVO, The Stooges, OhSees, Viagra Boys, Beastie Boys // DIY Fuzz, synth and horns // Fun, odd, nostalgic, high energy.  ***
 
