@@ -68,6 +68,7 @@ media:
 addTitleSuffix: true
 metaTitle: Dead Stilettos
 metaDescription: Dead Stilettos Feature
+socialImage: /images/White Logo (on black).png
 ---
 ***Garage rock/egg punk // For fans of: DEVO, The Stooges, OhSees, Viagra Boys, Beastie Boys // DIY Fuzz, synth and horns // Fun, odd, nostalgic, high energy.  ***
 
