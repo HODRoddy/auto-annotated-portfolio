@@ -72,7 +72,7 @@ socialImage: /images/White Logo (on black).png
 metaTags:
   - type: MetaTag
     property: 'og:title'
-    content: ''
+    content: Punk
 ---
 ***Garage rock/egg punk // For fans of: DEVO, The Stooges, OhSees, Viagra Boys, Beastie Boys // DIY Fuzz, synth and horns // Fun, odd, nostalgic, high energy.  ***
 
