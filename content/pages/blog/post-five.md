@@ -66,6 +66,7 @@ media:
   controls: true
   aspectRatio: '16:9'
 addTitleSuffix: true
+metaTitle: Dead Stilettos
 ---
 ***Garage rock/egg punk // For fans of: DEVO, The Stooges, OhSees, Viagra Boys, Beastie Boys // DIY Fuzz, synth and horns // Fun, odd, nostalgic, high energy.  ***
 
