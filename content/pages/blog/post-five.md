@@ -52,7 +52,7 @@ bottomSections:
         caption: Image one caption
         elementId: ''
       - type: ImageBlock
-        url: /images/gallery-2.jpg
+        url: /images/Untitled_design__1_-removebg-preview.png
         altText: Image two
         caption: Image two caption
         elementId: ''
