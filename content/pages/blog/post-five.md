@@ -2,7 +2,7 @@
 type: PostLayout
 title: Dead Stilettos
 colors: colors-a
-date: '2025-02-02'
+date: '2025-02-07'
 author: content/data/team/doris-soto.json
 excerpt: 'Featured artist '
 featuredImage:
