@@ -47,7 +47,7 @@ bottomSections:
     subtitle: This is the subtitle
     images:
       - type: ImageBlock
-        url: /images/gallery-1.jpg
+        url: /images/img-20250312-wa0028.jpg
         altText: Image one
         caption: Image one caption
         elementId: ''
