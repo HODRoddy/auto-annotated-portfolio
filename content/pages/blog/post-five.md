@@ -57,7 +57,7 @@ bottomSections:
         caption: Image two caption
         elementId: ''
       - type: ImageBlock
-        url: /images/gallery-3.jpg
+        url: /images/Copy of 7f2f957e-eb12-47ae-8470-4a087fcfdc43.jpg
         altText: Image three
         caption: Image three caption
         elementId: ''
