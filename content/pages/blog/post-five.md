@@ -44,7 +44,7 @@ bottomSections:
     showReadMoreLink: true
   - type: MediaGallerySection
     title: ''
-    subtitle: This is the subtitle
+    subtitle: Look at them <3 xo
     images:
       - type: ImageBlock
         url: /images/img-20250312-wa0028.jpg
