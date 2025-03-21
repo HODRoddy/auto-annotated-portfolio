@@ -130,4 +130,21 @@ They went onto sell out YES Basement for their first live performance of the deb
 
 > [*Abby T*](https://www.instagram.com/abs.tapp75/)*- Music Is To Blame*![](/images/mitb-removebg-preview.png)
 
+
+
+> "“Screw speaking in hushed tones, this needs shouting from the rooftops. Dead Stilettos are one of Manchester’s best new garage rock bands. They are plucked and pruned, shorn of fat, wirey and wicked to the very end. If this EP is anything to go by, we can expect a lot more to come from them. I for one will be waiting…”
+> \- 
+>
+> [Nathan Whittle ](https://louderthanwar.com/dead-stilettos-dead-stilettos-ep-review/)
+>
+> \- Louder Than War 
+>
+>
+> ![](/images/Louder-Than-War-Logo-Black-Label-R.png)
+>
+>
+>
+
+
+
 There's a big 2025 in store for Dead Stilettos with a tour of the North confirmed, a single and album release, several live studio records and some massive slots to be announced...
